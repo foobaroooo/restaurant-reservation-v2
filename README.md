@@ -1,4 +1,4 @@
-# Build a restaurant reservation widget
+# Build a restaurant reservation widget (official)
 
 Build a React component that allows users to book a table at a restaurant.
 Users should be able to choose the number of persons they want to book for, the date and the time.
